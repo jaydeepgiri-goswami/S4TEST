@@ -5,5 +5,5 @@
 *&---------------------------------------------------------------------*
 REPORT ZTEST_JGQ6197.
 IF sy-subrc is INITIAL.
-
+  WRITE: 'Push and merge test'.
 ENDIF.
